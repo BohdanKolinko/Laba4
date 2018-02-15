@@ -14,3 +14,9 @@ int main()
     return 0;
 }
 
+int tmain()
+{
+	cout << "full";
+	return 1;
+}
+
