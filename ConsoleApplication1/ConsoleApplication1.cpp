@@ -10,8 +10,8 @@ using namespace std;
 
 int main()
 {
-	cout << "null";
-    return 0;
+	cout << "foo";
+    return 1;
 }
 
 int tmain()
