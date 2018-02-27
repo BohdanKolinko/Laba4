@@ -16,7 +16,7 @@ int main()
 
 int tmain()
 {
-	cout << "full";
+	cout << "full";jipohiu
 	return 1;
 }
 
